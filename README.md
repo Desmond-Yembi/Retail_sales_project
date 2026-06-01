@@ -137,7 +137,6 @@ The dashboard provides management with:
 
 ## Dashboard Preview
 
-*(Add screenshots of your Power BI dashboard here)*
 
 ```markdown
 
